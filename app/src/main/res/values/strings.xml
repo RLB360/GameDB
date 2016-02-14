@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GameDb</string>
+
+    <string name="title_section1">Meus Games</string>
+    <string name="title_section2">Games Finalizados</string>
+    <string name="title_section3">Games Não Finalizados</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_manter_game">ManterGameActivity</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
